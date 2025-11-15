@@ -868,6 +868,7 @@ The key tools for building AI agents include benchmarks (to evalutae performance
 - [Yzv103E-Intr.Toai-Dataeng-Ethics](https://github.com/serdarbicici-visualstudio/YZV103E-Intr.toAI-DataEng-Ethics) - YZV 103E Intr. to AI & Data Eng& Ethics materials and team project for İstanbul Technical University
 
 ### Frameworks
+- [AgentFlow](https://github.com/lupantech/AgentFlow) - A trainable multi-agent framework that coordinates four specialized modules (planner, executor, verifier, generator) through in-the-flow optimization, achieving significant performance gains over monolithic approaches by directly training the planner within multi-turn task loops using Flow-GRPO reinforcement learning. Any tools can be smoothly integrated into this framework, math, coding, scientific, search, finance, news, etc. [github](https://github.com/lupantech/AgentFlow) | [website](https://agentflow.stanford.edu/) | [paper](https://huggingface.co/papers/2510.05592)
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Crew.AI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [IBM Bee](https://github.com/i-am-bee/bee-agent-framework) - The framework for building scalable agentic applications.
